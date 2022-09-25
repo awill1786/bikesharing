@@ -28,4 +28,5 @@ This analysis shows the peak hours of activity in August.
 
 ### Top Starting Locations
 ![image](https://github.com/awill1786/bikesharing/blob/main/Resources/Top%20Starting%20Locations.png?raw=true)
+
 This analysis shows the top starting locations by users.
