@@ -3,6 +3,7 @@
 ## Results
 ### Checkout Times for Users
 ![image](https://github.com/awill1786/bikesharing/blob/main/Resources/Checkout%20Times%20for%20Users.png?raw=true)
+
 This analysis shows the number of bikes broken down by the trip duration in minutes.
 
 ### Checkout Times by Gender
