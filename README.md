@@ -1,6 +1,6 @@
 # Citibike Challenge
 ## Overview
-The purpose of this analysis is to showcase what a bike sharing program might look like in Des Moines, Iowa, by using information we have gthered from Citibike in New York, New York.
+The purpose of this analysis is to showcase what a bike sharing program might look like in Des Moines, Iowa, by using information we have gathered from Citibike in New York, New York.
 
 ## Results
 [Link To Story](https://public.tableau.com/app/profile/alton2160/viz/Citibike_Challenge_16638154893970/DesMoinesBikeshare?publish=yes)
@@ -25,11 +25,14 @@ This analysis shows the trips by weekday for each hour, broken down by gender. T
 This analysis shows the user activity broken down by weekday and gender, separated into customer and subscriber catagories. It looks like Male Subscribers are using the service more often than any other group, specifically towards the end of the week.
 
 ## Summary
+From the data gathered, it appears the biggest use of the bikeshare program is from users who are going to and from work. Men also vastly outnumber any other gender, so that will help us in our efforts to advertise the service to its users. Another analysis we should look at is what are the peak hours of use suring the busiest month of August.
 ### August Peak Hours
 ![image](https://github.com/awill1786/bikesharing/blob/main/Resources/August%20Peak%20Hours.png?raw=true)
-This analysis shows the peak hours of activity in August. The largest amount of activity is occurring between 7AM - 10AM and 4PM - 7PM. This also seems to be peak rush hour times.
+This analysis shows the peak hours of activity in August. The largest amount of activity is occurring between 7AM - 10AM and 4PM - 7PM. Again, this seems to be peak rush hour times.
+
+We can also take a look at where exactly the majority of Citibike users are starting their rides.
 
 ### Top Starting Locations
 ![image](https://github.com/awill1786/bikesharing/blob/main/Resources/Top%20Starting%20Locations.png?raw=true)
 
-This analysis shows the top starting locations by users. These starting locations seem to coincide with tourist areas and areas where people arrive on the island via train, ferry, or bus. 
+This analysis shows the top starting locations by users. These starting locations seem to coincide with tourist areas and areas where people arrive on the island via train, ferry, or bus. Des Moines doesn't have the same types of transportation methods that New York has or anywhere near the amount of workers entering the city to go to work. So we can focus more on areas around tourist attractions.
