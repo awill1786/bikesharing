@@ -3,7 +3,7 @@
 The purpose of this analysis is to showcase what a bike sharing program might look like in Des Moines, Iowa, by using information we have gthered from Citibike in New York, New York.
 
 ## Results
-[link to dashboard](https://public.tableau.com/app/profile/alton2160/viz/Citibike_Challenge_16638154893970/DesMoinesBikeshare?publish=yes)
+[Link To Story](https://public.tableau.com/app/profile/alton2160/viz/Citibike_Challenge_16638154893970/DesMoinesBikeshare?publish=yes)
 ### Checkout Times for Users
 ![image](https://github.com/awill1786/bikesharing/blob/main/Resources/Checkout%20Times%20for%20Users.png?raw=true)
 
